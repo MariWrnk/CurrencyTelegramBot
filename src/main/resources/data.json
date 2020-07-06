@@ -1,0 +1,162 @@
+{
+  "питер": {
+    "fullName": "Санкт-Петербург",
+    "urlName": "sankt-peterburg"
+  },
+  "спб": {
+    "fullName": "Санкт-Петербург",
+    "urlName": "sankt-peterburg"
+  },
+  "москв": {
+    "fullName": "Москва",
+    "urlName": "moskva"
+  },
+  "ростов": {
+    "fullName": "Ростов-на-Дону",
+    "urlName": "rostov-na-donu"
+  },
+  "екатеринбург": {
+    "fullName": "Екатеринбург",
+    "urlName": "ekaterinburg"
+  },
+  "новосибирск": {
+    "fullName": "Новосибирск",
+    "urlName": "novosibirsk"
+  },
+  "казан": {
+    "fullName": "Казань",
+    "urlName": "kazan"
+  },
+  "новгород": {
+    "fullName": "Нижний новгород",
+    "urlName": "nizhniy-novgorod"
+  },
+  "омск": {
+    "fullName": "Омск",
+    "urlName": "omsk"
+  },
+  "самар": {
+    "fullName": "Самара",
+    "urlName": "samara"
+  },
+  "челябинск": {
+    "fullName": "Челябинск",
+    "urlName": "chelyabinsk"
+  },
+  "уф": {
+    "fullName": "Уфа",
+    "urlName": "ufa"
+  },
+  "красноярск": {
+    "fullName": "Красноярск",
+    "urlName": "krasnoyarsk"
+  },
+  "перм": {
+    "fullName": "Пермь",
+    "urlName": "perm"
+  },
+  "воронеж": {
+    "fullName": "Воронеж",
+    "urlName": "voronezh"
+  },
+  "волгоград": {
+    "fullName": "Волгоград",
+    "urlName": "volgograd"
+  },
+  "краснодар": {
+    "fullName": "Краснодар",
+    "urlName": "krasnodar"
+  },
+  "саратов": {
+    "fullName": "Саратов",
+    "urlName": "saratov"
+  },
+  "тюмен": {
+    "fullName": "Тюмень",
+    "urlName": "tumen"
+  },
+  "тольятти": {
+    "fullName": "Тольятти",
+    "urlName": "tolyatti"
+  },
+  "ижевск": {
+    "fullName": "Ижевск",
+    "urlName": "izhevsk"
+  },
+  "барнаул": {
+    "fullName": "Барнаул",
+    "urlName": "barnaul"
+  },
+  "иркутск": {
+    "fullName": "Иркутск",
+    "urlName": "irkutsk"
+  },
+  "ульяновск": {
+    "fullName": "Ульяновск",
+    "urlName": "ulyanovsk"
+  },
+  "хабаровск": {
+    "fullName": "Хабаровск",
+    "urlName": "habarovsk"
+  },
+  "ярославл": {
+    "fullName": "Ярославль",
+    "urlName": "yaroslavl"
+  },
+  "владивосток": {
+    "fullName": "Владивосток",
+    "urlName": "vladivostok"
+  },
+  "махачкал": {
+    "fullName": "Махачкала",
+    "urlName": "mahachkala"
+  },
+  "томск": {
+    "fullName": "Томск",
+    "urlName": "tomsk"
+  },
+  "оренбург": {
+    "fullName": "Оренбург",
+    "urlName": "orenburg"
+  },
+  "кемерово": {
+    "fullName": "Кемерово",
+    "urlName": "kemerovo"
+  },
+  "новокузнецк": {
+    "fullName": "Новокузнецк",
+    "urlName": "novokuzneck"
+  },
+  "рязан": {
+    "fullName": "Рязань",
+    "urlName": "ryazan"
+  },
+  "астрахан": {
+    "fullName": "Астрахань",
+    "urlName": "astrahan"
+  },
+  "пенз": {
+    "fullName": "Пенза",
+    "urlName": "penza"
+  },
+  "киров": {
+    "fullName": "Киров",
+    "urlName": "kirovskaya-oblast-kirov"
+  },
+  "липецк": {
+    "fullName": "Липецк",
+    "urlName": "lipeck"
+  },
+  "балаших": {
+    "fullName": "Балашиха",
+    "urlName": "balashiha"
+  },
+  "чебоксар": {
+    "fullName": "Чебоксары",
+    "urlName": "cheboksari"
+  },
+  "калининград": {
+    "fullName": "Калининград",
+    "urlName": "kaliningrad"
+  }
+}
